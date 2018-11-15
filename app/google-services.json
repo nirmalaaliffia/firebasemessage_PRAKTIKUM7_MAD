@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "731518570199",
+    "firebase_url": "https://fir-message-afe09.firebaseio.com",
+    "project_id": "fir-message-afe09",
+    "storage_bucket": "fir-message-afe09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731518570199:android:cc972ac585d0ac64",
+        "android_client_info": {
+          "package_name": "com.firebase.firebasemessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731518570199-l7q074mv305mkj883dhv0ltldcosoafg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwLDTLrcPsNd45NZOOZvvsYhRI1T-jRCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
